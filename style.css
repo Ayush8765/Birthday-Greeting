@@ -78,3 +78,8 @@ img {
   max-height: none;
   object-fit: contain;
 }
+.paper {
+  /* everything you already have */
+
+  touch-action: none;
+}
